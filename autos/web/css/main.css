@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Verdana, Times;
+    font-size: .72em;
+    color: #444;
+}
+
+a:active, a:link, a:visited {
+    color: #0369cd;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:hover 	{
+    color: #3c94eb;
+    font-weight:bold;
+    text-decoration: none;
+}
+
+/* para imagenes como links */
+a img {
+    border:0;
+}

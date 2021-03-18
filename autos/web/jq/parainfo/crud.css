@@ -1,0 +1,25 @@
+table.parainfo {
+    border-collapse: collapse;
+    border: 1px solid #a6c9e2; /* #a6c9e2; redmond */ /* #e79f2a; ui-lightness */
+}
+
+table.parainfo td, table.parainfo th {
+    border: 1px solid #a6c9e2; /* #a6c9e2; redmond */ /* #e79f2a; ui-lightness */
+    padding: 4px 6px;
+}
+
+table.parainfo .crud {
+    width: 20px;
+}
+
+table.parainfo tbody tr:nth-of-type(odd) {
+    background-color: #ffffff; 
+}
+
+table.parainfo tbody tr:nth-of-type(even) {
+    background-color: #e5f0f9; /* #e5f0f9 redmond */ /* #ffea92; ui-lightness */
+}
+
+table.parainfo tbody tr:hover {
+    background-color: #bcd4ec; /* #bcd4ec redmond */ /* #ffca72; ui-lightness */
+}

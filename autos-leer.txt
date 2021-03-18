@@ -1,0 +1,4 @@
+crear la base de datos: autos
+ejecutar en ella: autos.sql
+ejecutar programa: pruebas.Prueba para insertar las imágenes.
+
